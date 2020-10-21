@@ -1,0 +1,6 @@
+/*! Place your custom styles here */
+.table-bordered--collaspe{
+    table-layout: fixed;
+    word-wrap: break-word;
+    border-collapse: collapse;
+}
